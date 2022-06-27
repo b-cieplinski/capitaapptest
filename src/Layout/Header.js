@@ -39,7 +39,7 @@ function Header(props) {
             <Grid item xs />
             <Grid item>
               <LinkIcon
-                href="/"
+                href="https://github.com/b-cieplinski"
                 variant="body2"
                 sx={{
                   textDecoration: 'none',
